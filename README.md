@@ -8,6 +8,6 @@ Este proyecto contiene todos los proyecto, laboratorios, prácticas y exámenes 
 Clonar este repositorio con:
 
 ```bash
- git clone https://github.com/dani0105/DS-backend.git
+ git clone https://github.com/dani0105/Semestre-IV-Lenguajes-de-programacion.git
 ```
 
